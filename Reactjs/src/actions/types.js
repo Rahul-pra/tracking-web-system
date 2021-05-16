@@ -1,0 +1,24 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+
+export const TASK_SUCCESS = "TASK_SUCCESS";
+export const TASK_FAIL = "TASK_FAIL";
+
+export const GET_ALL_TASK_SUCCESS = "GET_ALL_TASK_SUCCESS";
+export const GET_ALL_TASK_FAIL = "GET_ALL_TASK_FAIL";
+
+export const SUB_TASK_SUCCESS = "TASK_SUCCESS";
+export const SUB_TASK_FAIL = "TASK_FAIL";
+
+export const GET_ALL_SUB_TASK_SUCCESS = "GET_ALL_SUB_TASK_SUCCESS";
+export const GET_ALL_SUB_TASK_FAIL = "GET_ALL_SUB_TASK_FAIL";
+
+export const EDIT_SUB_TASK_SUCCESS = "EDIT_SUB_TASK_SUCCESS";
+export const EDIT_SUB_TASK_FAIL = "EDIT_SUB_TASK_FAIL";
+
